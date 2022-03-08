@@ -3,12 +3,12 @@
 <p>
   <a> in the following section enter your information to start the application </a> <br>
   <code>
-  SERVER = 'smtp.gmail.com'  # "your smtp server" <br>
-  PORT = 587  # your port number <br>
-  FROM = ''  # "your from email id" <br>
-  TO = ''  # "your to email ids"  # can be a list <br>
-  PASS = '*******'  # "your email id's password" <br>
-  </code>
+  SERVER = 'smtp.gmail.com'  # "your smtp server" 
+  PORT = 587  # your port number 
+  FROM = ''  # "your from email id" 
+  TO = ''  # "your to email ids"  # can be a list 
+  PASS = '*******'  # "your email id's password" 
+  </code> <br>
 </p>
 
 <p>       Enter the email Addresses for sender and receiver, receiver will receive the email consists today's date and coindesk.com newest headlines </p>
