@@ -41,9 +41,9 @@ print('Composing Email...')
 
 SERVER = 'smtp.gmail.com'  # "your smtp server"
 PORT = 587  # your port number
-FROM = 'llol1231235@gmail.com'  # "your from email id"
-TO = 'llol1231235@gmail.com'  # "your to email ids"  # can be a list
-PASS = '1235llol'  # "your email id's password"
+FROM = ''  # "your from email id"
+TO = ''  # "your to email ids"  # can be a list
+PASS = '*******'  # "your email id's password"
 
 msg = MIMEMultipart()
 msg['Subject'] = 'Top CoinDesk News [Automated Email]' + ' ' + str(now.day) + '/' + str(now.month) + '/' + str(
