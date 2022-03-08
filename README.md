@@ -1,7 +1,7 @@
 # Automated-email-for-coindesk.com
 <h3> Python Program to automatically send the Titles of coindesk.com's headlines </h3>
 <p>
-  <a> in the following section enter your information to start the application </a>
+  <a> in the following section enter your information to start the application </a> <br>
   <code>
   SERVER = 'smtp.gmail.com'  # "your smtp server"
   PORT = 587  # your port number
