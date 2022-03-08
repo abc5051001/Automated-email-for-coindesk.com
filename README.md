@@ -3,11 +3,11 @@
 <p>
   <a> in the following section enter your information to start the application </a> <br>
   <code>
-  SERVER = 'smtp.gmail.com'  # "your smtp server"
-  PORT = 587  # your port number
-  FROM = ''  # "your from email id"
-  TO = ''  # "your to email ids"  # can be a list
-  PASS = '*******'  # "your email id's password"
+  SERVER = 'smtp.gmail.com'  # "your smtp server" \n
+  PORT = 587  # your port number \n 
+  FROM = ''  # "your from email id" \n 
+  TO = ''  # "your to email ids"  # can be a list \n 
+  PASS = '*******'  # "your email id's password" \n
   </code>
 </p>
 
